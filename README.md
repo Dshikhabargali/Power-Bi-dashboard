@@ -1,5 +1,5 @@
 Virat Kohli Runs Analysis - Power BI Project
-This project provides an in-depth analysis of the batting performance of Indian cricketer Virat Kohli using Power BI. It explores various aspects of his cricket career, including his runs across different formats (Test, ODI, T20), consistency over the years, and performance against different teams and in various conditions (home/away, venue-wise).
+This project provides an in-depth analysis of the batting performance of Indian cricketer Virat Kohli using Power BI. It explores various aspects of his cricket career, including his runs across different formats (Test, ODI, T20), consistency over the years, and performance against different teams and in various conditions ).
 
 Key Features:
 Visual Dashboards: Interactive charts and graphs that visualize Kohli's runs, innings, strike rate, and average across formats.
